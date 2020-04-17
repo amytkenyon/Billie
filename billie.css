@@ -1,5 +1,8 @@
 body{
-	margin: 0px;
+	
+	font-size: 15px;
+	line-height: 20px;
+	padding-left: 20px;
 
 }
 
@@ -25,13 +28,35 @@ header img{
 }
 
  main{
- 	max-width: 800px;
- 	margin: 0 auto;
+ 
  	background-color: #E8F4E2;
 	font-family: helvetica, arial, sans-serif;
-	padding:0 20px 20px 20px;
+
  }
 
- main img{
- 	max-width: 800px;
+
+ h2{
+ 	font-size: 25px;
+ }
+
+ a{
+ 	color: #5233BD;
+ 	font-style: italic, underline;
+
+ }
+
+ a:hover {
+ 	background-color: red;
+ 	color: white;
+ }
+
+ footer{
+ 	text-align: center;
+ 	background-color: #235E03;
+ 	padding: 50px;
+
+ }
+
+ footer p{
+ 	margin: 0px;
  }
