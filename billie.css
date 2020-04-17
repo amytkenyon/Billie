@@ -1,0 +1,37 @@
+body{
+	margin: 0px;
+
+}
+
+header{
+	background-color: #235E03;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	
+}
+
+header h1{
+	font-family: Underdog, extra-expanded;
+	color: white;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 150px;
+	border-style: solid;
+	border-width: 10px;
+	border-color: white;
+}
+
+ main{
+ 	max-width: 800px;
+ 	margin: 0 auto;
+ 	background-color: #E8F4E2;
+	font-family: helvetica, arial, sans-serif;
+	padding:0 20px 20px 20px;
+ }
+
+ main img{
+ 	max-width: 800px;
+ }
