@@ -2,8 +2,20 @@ body{
 	
 	font-size: 15px;
 	line-height: 20px;
-	padding-left: 20px;
+	margin: 0px;
+	background-color: #E8F4E2;
+	font-family: helvetica, arial, sans-serif;
+	
+}
 
+
+main{
+	padding: 5px;
+}
+
+main img{
+	text-align: center;
+	margin: auto;
 }
 
 header{
@@ -11,6 +23,7 @@ header{
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 30px;
+	margin: 0px;
 	
 }
 
@@ -26,13 +39,6 @@ header img{
 	border-width: 10px;
 	border-color: white;
 }
-
- main{
- 
- 	background-color: #E8F4E2;
-	font-family: helvetica, arial, sans-serif;
-
- }
 
 
  h2{
@@ -54,9 +60,16 @@ header img{
  	text-align: center;
  	background-color: #235E03;
  	padding: 50px;
+ 	margin: 0px;
 
  }
 
  footer p{
  	margin: 0px;
+ }
+
+ p.caption{
+ 	color: grey;
+ 	font-style: italic;
+ 	margin-top: 0px;
  }
